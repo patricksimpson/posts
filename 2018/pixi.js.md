@@ -2,7 +2,7 @@
 title: "Pixi.js"
 date: "2018-12-10 9:45 PM"
 summary: "Learning a little about WebGL with Pixi.js"
-tags: ["programming", "JavaScript"]
+tags: ["programming", "javascript"]
 ---
 
 Recently I have been working extensively with Pixi.js http://www.pixijs.com/.
