@@ -1,0 +1,9 @@
+@startuml
+(*) --> "node index.js"
+--> "posts.compile()"
+
+"posts.compile()" -->[posts] "pages.compile"
+"posts.compile()" -->[tags] "tags.compile"
+"posts.compile()" -->[rss] "rss.compile"
+"posts.compile()" -->[rss] "search.compile"
+@enduml
