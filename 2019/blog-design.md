@@ -20,20 +20,18 @@ Last night, I opened sourced my blog: https://github.com/patricksimpson/blog
     - lib/template.js
     - lib/utils.js
 
-running `node index.js`
-
-Kicks off the post generator (`lib/posts.js`):
+Running `node index.js` Kicks off the post generator (`lib/posts.js`):
 
     const { postData, rssData, postTags } = await posts.compile(path.join(__dirname, dist));
 
 [index.js - Line 12](https://github.com/patricksimpson/blog/blob/master/index.js#L12)
 
-Provides data to the page, tag, rss, search generators. 
+Provides data to the page, tag, rss, search generators.
 Each compliation step, has dependency injection, needing both `dist` and the relevant data:
 
  `postData`, `rssData`, `postTags`
- 
- ### The major components 
+
+ ### The major components
 
 ![](blog-design_diagram.png)
 
