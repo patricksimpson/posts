@@ -1,7 +1,7 @@
 ---
 title: "Blog Design"
 date: "2019-01-24  2:20 PM"
-summary: "A quick status update on my static blog generator"
+summary: "A quick status update on my static blog generator."
 tags: ["blog", "programming", "javascript"]
 ---
 

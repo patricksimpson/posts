@@ -1,7 +1,7 @@
 ---
 title: "Lunr.js Search"
 date: "2019-01-13 11:47 PM"
-summary: "A little about Lunr.js searching on a static site"
+summary: "A little about Lunr.js searching on a static site."
 tags: ["javascript", "programming"]
 ---
 
