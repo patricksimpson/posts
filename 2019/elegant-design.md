@@ -55,7 +55,6 @@ Again, this is something when designing a system we need to ensure we’re doing
 
 ## Design and build software, even operating systems, to be tried early, ideally within weeks. Don't hesitate to throw away the clumsy parts and rebuild them.
 
-Lastly, how truly amazing is this statement?
-How often do we get stuck on something because we abstracted early? This goes very nicely with the first 2 mentioned previously.
+How truly amazing is this statement? How often do we get stuck on something because we abstracted early? This goes very nicely with the first 2 mentioned previously.
 
 Iterate and improve your systems over time. Elegant.
