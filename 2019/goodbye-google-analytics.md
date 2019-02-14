@@ -16,11 +16,11 @@ tracks even non-HTML requests (like rss.xml, and robots.txt).
 CloudFront also gives you additional information, misses, requests from cache, etc. This far exceeds the abilities of GA.
 
 Lastly, CloudFront analytics are not blocked by [Brave or other content/source blockers](https://www.quantable.com/analytics/how-many-users-block-google-analytics/)
-like GA can. This is a huge win for me, and for you!
+like GA. This is a huge win for me, and for you!
 
 ## Gzipping; Page Speed
 
-After removing GA I ran some performance tests.
+After removing GA and adding the gzip step to my [deployment script](https://github.com/patricksimpson/blog/blob/master/deploy.js), I ran some performance tests.
 
 ### Results:
 
