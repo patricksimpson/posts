@@ -6,6 +6,9 @@ tags: ["blog", "programming", "linux"]
 ---
 
 Read the ****ing manual is advice that is given out in one of the most notorious ways.
+
+![](https://img00.deviantart.net/3722/i/2007/356/0/4/mao_rtfm_vectorize_by_cmenghi.png)
+
 [RTFM](https://en.wikipedia.org/wiki/RTFM), was a term I heard (directed at me, many times) back in the early 2000’s when I was first learning about the linux/unix operating system.
 It cuts deep. It can discourage those young eager learners that are just starting out.
 
