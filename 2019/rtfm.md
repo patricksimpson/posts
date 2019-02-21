@@ -21,7 +21,7 @@ I know first hand that sometimes you can read a manual and not grok it.
 It’s helpful to ask questions to get the clarification you need.
 Don’t be afraid to reach out either, I’d be more than willing to help if I can.
 
-One thing that stuck with me though, even though it was a hard pill to shallow, the manuals are there.
+One thing that stuck with me, even though it was a hard pill to shallow, the manuals are there.
 Often times I still find new and vaulable information in them. Information I didn't fully understand the first time I read them, if I ever read them to begin with.
 
 Also, check out this website for help on command line: https://explainshell.com/ it's amazing for
