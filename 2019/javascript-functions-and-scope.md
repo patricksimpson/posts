@@ -46,8 +46,8 @@ In javascript, you may have encountered `this`.
 For classes, methods, and aysnc JavaScript…  it’s very important to know, that you can also `bind` whatever you’d like to `this`, but often it's
 good to bind the current executable scope.
 
-You might see: `this.classMethod = this.classMethod.bind(this)` for example sprinkled in classes.
-This allows for these methods to have the same scope/context as the rest of the class.
+You might see: `this.classMethod = this.classMethod.bind(this)` for example in class constructors. This approach allows for these methods to have the access to the variables defined
+in that class.
 
 ## Bind
 
