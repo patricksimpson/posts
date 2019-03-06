@@ -1,14 +1,15 @@
 ---
 title: "Scope in JavaScript Functions"
 date: "2019-03-06  1:27 PM"
-summary: ""
+summary: "Let's talk about this and that... I mean, scope in JavaScript functions!"
 tags: ["javascript", "programming", "blog"]
 ---
 
 I was trying to explain scoping in JavaScript the other day and I thought it would be good to post a little
 about JavaScript scoping.
 
-**What is scope?** [Scope](https://en.wikipedia.org/wiki/Scope_(computer_science)) is just the _parts_ of your code that are currently available or in otherwords... the variables that are currently visible.
+**What is scope?** [Scope](https://en.wikipedia.org/wiki/Scope_(computer_science)) is just the _parts_ of your code that are currently
+available, in otherwords, the variables that are currently visible.
 
 ## Lexical Scope in JavaScript
 
@@ -43,7 +44,10 @@ In javascript, you may have encountered `this`.
 `this` is a reference the current [executable scope](http://www.digital-web.com/articles/scope_in_javascript/).
 
 For classes, methods, and aysnc JavaScript…  it’s very important to know, that you can also `bind` whatever you’d like to `this`, but often it's
-good to bind the current executable scope. (see arrow functions below).
+good to bind the current executable scope.
+
+You might see: `this.classMethod = this.classMethod.bind(this)` for example sprinkled in classes.
+This allows for these methods to have the same scope/context as the rest of the class.
 
 ## Bind
 
@@ -71,8 +75,14 @@ What’s happening with an arrow function? Why is it used (other than, hey it's 
 
 Typically you may see a call: `const main = () => { console.log(this); }`
 
-Arrow functions (function expressions) always bind the outer function scope `this` at execution.
-Essentially, `(function main() { console.log(this)).bind(this);`
+Arrow functions (function expressions) always bind the outer function scope.
+
+So instead of using `this.classMethod = this.classMethod.bind(this)`, you can use `const classMethod = () => { }` which
+will give you the class `this` binding you expect.
+
+## `this` and `that`
+
+An old work around to get what arrow functions provide, was to provide a new variable `that = this`.
 
 This used to be done as follows:
 
