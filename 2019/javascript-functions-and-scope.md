@@ -41,11 +41,11 @@ Example:
    
 Breaking that example down: 
 
-    - `main` lives in the global scope.
-      - has access to global scope variables.
-      - does not have access to the `inner` declared variables, like `hello`.
-    - `inner` lives in the `main` scope as well as the global scope.
-        - has access to both the global, and the main variables.
+  - `main` lives in the global scope.
+    - has access to global scope variables.
+    - does not have access to the `inner` declared variables, like `hello`.
+  - `inner` lives in the `main` scope as well as the global scope.
+    - has access to both the global, and the main variables.
 
 ## And What is `this`?
 
@@ -63,7 +63,7 @@ Example:
 
 This example is often seen inside class constructors. This approach allows for these methods (or functions) to have the access to the variables defined in that class instance. `this` in _this_ case applies to the instance of the class.
 
-You can have multiple instances of the same class, each would have their own, very different `this` context. It would be bad otherwise.  😨
+You can have multiple instances of the same class, each would have their own, very different `this` context. (It would be bad otherwise.🤯)
 
 ## Bind
 
