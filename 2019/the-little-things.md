@@ -16,8 +16,9 @@ I mentioned to my wife on the way out the door as I certainly didn't have time t
 
 ![](https://scontent-ort2-2.cdninstagram.com/vp/ea809b31fb9544421e3f9cde962633d9/5D168F79/t51.2885-15/sh0.08/e35/p640x640/52525560_2296440693957503_1874634112480136085_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com)
 
-To my surprise, she revived the chick. Feeding it sugar water and cleaning it's butt, the chick seems perfectly fine now.
+To my surprise, my daughter spent many hours hand feeding this baby chick.
+Feeding it sugar water and cleaning it's butt regulary throughout the day she rescued it! And the chick seems perfectly fine now.
 
-The chick had something called “[pasty butt](https://www.raising-happy-chickens.com/pasty-butt.html)” which is pretty common and it is treatable if caught in time.
+The chick had something called “[pasty butt](https://www.raising-happy-chickens.com/pasty-butt.html)” which is pretty common and it is treatable if caught in time. If only I had the time...
 
 *The little things matter, that's why we have chickens.*
