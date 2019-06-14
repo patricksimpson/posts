@@ -25,7 +25,7 @@ I believe Netflix, YouTube, Hulu (plug other streaming services here), facebook,
 
 Here’s a thought… Go buy the DVD and watch it. Is your time is worth it? If not, why is endless streaming content worth it?
 
-Unplug yourself from the internet for a week and see a sudden additional amount suddenly appear in your day, like magic.
+Unplug yourself from the internet for a week and see a sudden additional time suddenly appear in your day, like magic.
 
 Everyone is given 24 hours daily, equally. What you choose to do with it is up to you.
 
@@ -42,8 +42,8 @@ Other things to do with your time:
  - Take walks with family/friends (or pet, you get the idea).
  - Learn a new hobby, craft, or build something amazing!
 
-A list of 33 things successful people do is a no brainer: https://www.inc.com/christina-desmarais/33-things-highly-successful-people-are-doing-every-day-that-you-probably-arent.html
+[A list of 33 things successful people do is a no brainer](https://www.inc.com/christina-desmarais/33-things-highly-successful-people-are-doing-every-day-that-you-probably-arent.html).
 
-https://www.goodreads.com/shelf/show/most-successful-people-read
+[Or enjoy a good list of books to read](https://www.goodreads.com/shelf/show/most-successful-people-read).
 
 Enjoy your time.
