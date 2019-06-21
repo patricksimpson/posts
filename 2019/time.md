@@ -31,7 +31,7 @@ Everyone is given 24 hours daily, equally. What you choose to do with it is up t
 
 
 ### Suggestions to better spend your time wisely
-
+Patrick: OOO
 Other things to do with your time:
 
  - Write.
