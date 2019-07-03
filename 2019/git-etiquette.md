@@ -7,7 +7,7 @@ tags: ["blog", "programming", "git"]
 
 <img src="https://i.postimg.cc/bvN1N1Q9/git-logo.jpg" style="max-width: 256px; float:right;" />
 
-Recently, I found myself expressing my opinions on git etiquette. This comes from many years of experiecne with all kinds of teams that used git, sometimes differently than my own style or sometimes much better.
+Recently, I found myself expressing my opinions on git etiquette. This comes from many years of experience with all kinds of teams that used git, sometimes differently than my own style or sometimes much better.
 
 I have found that following some minor rules will help you and your team in the long run.
 
