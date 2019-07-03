@@ -5,8 +5,8 @@ summary: "Testing components wrapped in HOCs can be annoying; Just don't do it."
 tags: ["javascript", "react", "programming", "blog"]
 ---
 
-[Higher Order Components](https://reactjs.org/docs/higher-order-components.html) (HOCs) are one of those things in the React world that confuse and irritate even seasoned of engineers.
-While I realize React Hooks is some kind of mircle cure... HOCs are still being widely used in older codebases, so chill.
+[Higher Order Components](https://reactjs.org/docs/higher-order-components.html) (HOCs) are one of those things in the React world that confuse and irritate even seaoned engineers.
+I realize React Hooks will make this a non-issue; HOCs are still being widely used in older codebases!
 
 When testing a component wrapped in HOCs, the best way I have found, make it a “simple” component. Just export a non-wrapped component as well as the wrapped component.
 
