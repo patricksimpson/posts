@@ -1,6 +1,6 @@
 ---
 title: "Command Line Tips & Tricks"
-date: "2020-02-13 8:22 PM"
+date: "2020-02-13 12:00 PM"
 summary: "Command line tips and tools to help you level up."
 tags: ["blog", "programming", "linux", "mac"]
 ---
