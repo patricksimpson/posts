@@ -25,6 +25,6 @@ For a person that got the whole "RTFM" thing in the past... this makes life a wh
 
 I remember stumbling upon this cache of information. What I like about TBOSK is this quote ` This repository is not meant to contain everything but only good quality stuff.` 
 
-There's A LOT of good quality stuff here for sure, checkout the [one liners](https://github.com/trimstray/the-book-of-secret-knowledge#one-liners-toc) and [shell-functions](https://github.com/trimstray/the-book-of-secret-knowledge#shell-functions-toc) for example... but I might as well just share the entire thing. Here is a link to the [Book of Seceret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 
+There's A LOT of good quality stuff here for sure, checkout the [one liners](https://github.com/trimstray/the-book-of-secret-knowledge#one-liners-toc) and [shell-functions](https://github.com/trimstray/the-book-of-secret-knowledge#shell-functions-toc) for example... but I might as well just share the entire thing. Here is a link to [The Book of Seceret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 
 
 Enjoy!
