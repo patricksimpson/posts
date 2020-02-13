@@ -1,3 +1,10 @@
+---
+title: "Command Line Tips & Tricks"
+date: ""
+summary: "Command line tips and tools to help you level up."
+tags: ["blog", "programming", "linux", "mac"]
+---
+
 ### Pipe `|` is Awesome
 
 [It's worth bringing up again](https://patricksimpson.me/posts/elegant-design/), because it's such a simple program but has the potential for infinate possibilities. 
@@ -13,7 +20,6 @@ Forget npx, try this:
 `export PATH="node_modules/.bin:$PATH"`
 
 This hack makes anything in your `node_modules/.bin` directory accessible to you as a runnable program based on your relative path. Meaning.. if you `npm install` you can run them without using NPX or pathing to the bin directoy everytime.
-
 
 ### TL;DR Manpages
 
