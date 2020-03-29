@@ -21,7 +21,19 @@ Vim was designed to be used on systems without Graphical User Interfaces, with l
 
 ## Why Emacs?
 
-Emacs has so much to offer, from a healthy package system, complete Vim emulation, Org mode, and more!
+Emacs has so much to offer, from a healthy package system, complete Vim emulation, Magit, Org mode, Dired, and so much more.
+
+### What is Emacs?
+
+At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
+
+In 1976, [Stallman](https://www.emacswiki.org/emacs/RichardStallman) wrote the first Emacs (“Editor MACroS”), which organized these macros into a single command set and added facilities for [SelfDocumentation](https://www.emacswiki.org/emacs/SelfDocumentation) and to be extensible. [TecoEmacs](https://www.emacswiki.org/emacs/TecoEmacs) soon became the standard editor...[read more on wikipedia](https://en.wikipedia.org/wiki/Emacs).
+
+In 1984, Stallman began writing another Emacs implementation based on the former co-planning with Gosling, naming it GnuEmacs, which became the first program in the GNU project.
+
+"Standing on shoulders of giants" is a metaphor which means "Using the understanding gained by major thinkers who have gone before in order to make intellectual progress." Using Emacs, you're leveraging 44 years of group-think, combined with the progress of so many others.
+
+Emacs has over 10,000 built-in commands and its user interface allows the user to combine these commands into macros to automate work.
 
 ### Basics
 
