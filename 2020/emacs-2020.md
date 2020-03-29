@@ -21,7 +21,11 @@ Vim was designed to be used on systems without Graphical User Interfaces, with l
 
 ## Why Emacs?
 
-Emacs has so much to offer, from a healthy package system, complete Vim emulation, Magit, Org mode, Dired, and so much more.
+Emacs has so much to offer, from a healthy package system, complete Vim emulation, Magit, Org mode, Dired, and so much more. 
+
+If you are looking for something lighter weight, quick edits, remote in to open vim. Edit. Save. Done. Vim is there. Emacs isn’t for everyone. Vim isnt either. 
+
+I use Emacs because it can do everything I want and more... 
 
 ### What is Emacs?
 
@@ -58,6 +62,16 @@ For example: `(+ 2 2)` placeing your cursor on `)` and pressing `C-x C-e` will e
 `C-x C-f` read a file into Emacs (or create one).
 
 `C-x C-s` save a file back to disk.
+
+### Describe
+
+`describe` is a powerful feature in Emacs that will tell you all the information you need about particulars.
+
+`M-x`: +
+`describe-function`
+`describe-variable`
+`describe-mode`
+`describe-key`
 
 ### Melpa
 
