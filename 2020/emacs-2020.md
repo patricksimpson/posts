@@ -21,7 +21,7 @@ Vim was designed to be used on systems without Graphical User Interfaces, with l
 
 ## Why Emacs?
 
-Emacs has so much to offer, from a healthy package system, complete Vim emulation, Magit, Org mode, Dired, and so much more. 
+Emacs has so much to offer, from a [healthy package system](https://melpa.org/#), complete [Vim emulation](https://www.emacswiki.org/emacs/Evil), [Magit](https://magit.vc/), [Org mode](https://orgmode.org/), [Dired](https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html), and [so much more](https://github.com/patricksimpson/dotfiles/tree/master/emacs#emacs-packages---melpa). 
 
 If you are looking for something lighter weight, quick edits, remote in to open vim. Edit. Save. Done. Vim is there. Emacs isn’t for everyone. Vim isnt either. 
 
@@ -75,7 +75,7 @@ For example: `(+ 2 2)` placeing your cursor on `)` and pressing `C-x C-e` will e
 
 ### Melpa
 
-MELPA is a growing collection of package.el-compatible Emacs Lisp packages built automatically on our server from the upstream source code using simple recipes. (Think of it as a server-side version of el-get, or even Homebrew.)
+[MELPA](https://melpa.org/#) is a growing collection of package.el-compatible Emacs Lisp packages built automatically on our server from the upstream source code using simple recipes. (Think of it as a server-side version of el-get, or even Homebrew.)
 
 `M-x`: package-list-packages
 
@@ -85,7 +85,7 @@ Packages can be installed without restarting emacs:
 
 ### Evil Mode
 
-Evil is an extensible vi layer for Emacs. It provides Vim features like Visual selection and text objects, and is the successor to the now-obsolete Vimpulse and vim-mode. Its home page.
+[Evil](https://www.emacswiki.org/emacs/Evil) is an extensible vi layer for Emacs. It provides Vim features like Visual selection and text objects, and is the successor to the now-obsolete Vimpulse and vim-mode. Its home page.
 
 `evil-mode` an advanced Vim emulation layer. Once installed, you can run it via `evil-mode` and you should have a complete Vim experience, within Emacs!
 
