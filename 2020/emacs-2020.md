@@ -83,8 +83,11 @@ Packages:
 
 ### Magit
 
-This is my next favorite thing about Emacs. Like my buddy Adam, I would probably still use Emacs just for Magit. It's that good. [magit](https://github.com/magit/magit)
+This is my next favorite thing about Emacs. Like my buddy [Adam](https://adamsimpson.net/), I would probably still use Emacs just for Magit. It's that good. [magit](https://github.com/magit/magit).
 
+Magit can teach you things you never knew about `git`. Like `--force-with-lease` and [why you should be using this as your default push](https://thoughtbot.com/blog/git-push-force-with-lease
+
+Magit, [makes git fast and easy](http://emacsrocks.com/e17.html).
 
 ### Others
  
