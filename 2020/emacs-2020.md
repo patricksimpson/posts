@@ -61,12 +61,39 @@ Evil is an extensible vi layer for Emacs. It provides Vim features like Visual s
 
 `evil-mode` an advanced Vim emulation layer. Once installed, you can run it via `evil-mode` and you should have a complete Vim experience, within Emacs!
 
+Packages:
+
+ - [evil](https://github.com/emacs-evil/evil)
+   - [evil-leader](https://github.com/cofi/evil-leader)
+   - [evil-magit](https://github.com/emacs-evil/evil-magit)
+
 ### Magit
 
-This is my next favorite thing about Emacs. Like my buddy Adam, I would probably still use Emacs just for Magit. It's that good.
+This is my next favorite thing about Emacs. Like my buddy Adam, I would probably still use Emacs just for Magit. It's that good. [magit](https://github.com/magit/magit)
+
+
+### Others
+ 
+ - [ivy](https://github.com/abo-abo/swiper)
+ - [projectile](https://github.com/bbatsov/projectile)
+   - [counsel-projectile](https://github.com/ericdanan/counsel-projectile)
+   - [projectile-rails](https://github.com/asok/projectile-rails)
+ - [flycheck](https://github.com/flycheck/flycheck)
+ - [tide](https://github.com/ananthakumaran/tide)
+ - [company](https://github.com/company-mode/company-mode)
+ - [hyrda](https://github.com/abo-abo/hydra)
+
+#### Theme
+
+ - [doom-themes](https://github.com/hlissner/emacs-doom-themes)
+   - [doom-tomorrow-night](https://github.com/hlissner/emacs-doom-themes/blob/master/themes/doom-tomorrow-night-theme.el)
+ - [doom-modeline](https://github.com/seagle0128/doom-modeline)
+ - [all-the-icons](https://github.com/domtronn/all-the-icons.el)
 
 ## Customize
 
 What all these years of Vim has thaught me is, learn to customize and never stop customizing. This year, I completely gutted my Emacs configuration and replaced it, line by line, plugin by plugin. It's fast, lightweight, and looks great.
+
+[Check it out here](https://github.com/patricksimpson/dotfiles/tree/master/emacs)
 
 Give it a shot. If you need help, reach out!
