@@ -17,6 +17,8 @@ One of the the biggest advantage to Vim Bindings  (aside from all the plugins an
 
 Vim was designed to be used on systems without Graphical User Interfaces, with limited mouse support. This is a huge advantage on servers, but another advantage is performance.
 
+[Learn vim](https://www.vimfromscratch.com/articles/why-learn-vim-in-2019/).
+
 ## Why Emacs?
 
 Emacs has so much to offer, from a healthy package system, complete Vim emulation, Org mode, and more!
@@ -64,8 +66,8 @@ Evil is an extensible vi layer for Emacs. It provides Vim features like Visual s
 Packages:
 
  - [evil](https://github.com/emacs-evil/evil)
-   - [evil-leader](https://github.com/cofi/evil-leader)
-   - [evil-magit](https://github.com/emacs-evil/evil-magit)
+ - [evil-leader](https://github.com/cofi/evil-leader)
+ - [evil-magit](https://github.com/emacs-evil/evil-magit)
 
 ### Magit
 
@@ -92,7 +94,9 @@ This is my next favorite thing about Emacs. Like my buddy Adam, I would probably
 
 ## Customize
 
-What all these years of Vim has thaught me is, learn to customize and never stop customizing. This year, I completely gutted my Emacs configuration and replaced it, line by line, plugin by plugin. It's fast, lightweight, and looks great.
+What all these years of Vim has thaught me, learn to customize and never stop customizing. 
+
+This year, I completely gutted my Emacs configuration and replaced it, line by line, plugin by plugin. It's fast, lightweight, and looks great.
 
 [Check it out here](https://github.com/patricksimpson/dotfiles/tree/master/emacs)
 
