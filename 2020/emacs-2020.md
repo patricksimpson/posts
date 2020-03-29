@@ -7,7 +7,7 @@ tags: ["blog", "emacs", "programming"]
 
 ## I Love Vim
 
-Much like [Aaron Bieber](https://blog.aaronbieber.com/2015/06/03/evil-mode.html), I started out coding using Vim. (Check out all his great write ups, [like this one](https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html))
+Much like [Aaron Bieber](https://blog.aaronbieber.com/2015/06/03/evil-mode.html), I started out coding using Vim. (Check out all his great write ups, [like this one](https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html)).
 
 And, I do love Vim. It is still one of the greatest editors of all time, and being an EVIL mode user, I love the default keybindings Vim has to offer.
 
@@ -31,9 +31,11 @@ Control `C-`
 
 So that `C-x` would be Control + x together. 
 
-### Exiting Emacs
+**Exiting Emacs**:
 
 `C-x C-c` Kill Emacs, `save-buffers-kill-terminal`.
+
+**Other basic commands**:
 
 `C-x C-e` Evaluate the current expression. This is cool, as you can do this on any elisp in your buffer.
 
