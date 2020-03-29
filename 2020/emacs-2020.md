@@ -59,14 +59,9 @@ Evil is an extensible vi layer for Emacs. It provides Vim features like Visual s
 
 `evil-mode` an advanced Vim emulation layer. Once installed, you can run it via `evil-mode` and you should have a complete Vim experience, within Emacs!
 
-
 ### Magit
 
-### Org
-
-### Dired
-
-
+This is my next favorite thing about Emacs. Like my buddy Adam, I would probably still use Emacs just for Magit. It's that good.
 
 ## Customize
 
