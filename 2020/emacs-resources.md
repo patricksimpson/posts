@@ -5,7 +5,7 @@ summary: "A bunch of Emacs resources links and tutorials."
 tags: ["blog", "emacs", "programming"]
 ---
 
-I just posted [Why Emacs?](https://patricksimpson.me/posts/why-emacs/), but I wanted a post that had a list of all the resources pulled out.
+I just posted [Why Emacs?](https://patricksimpson.me/posts/why-emacs/), but I wanted a post that had a list of all the resources pulled out into it's own post.
 
 - [Download Emacs](https://www.gnu.org/software/emacs/download.html)
 - [The Manual](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)

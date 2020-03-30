@@ -1,7 +1,7 @@
 ---
 title: "Why Emacs?"
 date: "2020-03-29 5:44 PM"
-summary: "A fresh new Emacs config for 2020."
+summary: "Why I use Emacs, What is Emacs, and why does Evil Mode sound bad?"
 tags: ["blog", "emacs", "programming"]
 ---
 
@@ -14,11 +14,11 @@ I've [decided to make this section it's own post](/posts/i-love-vim). I apprecia
 Emacs has so much to offer, from a [healthy package system](https://melpa.org/#), complete [Vim emulation](https://www.emacswiki.org/emacs/Evil), [Magit](https://magit.vc/), [Org mode](https://orgmode.org/), [Dired](https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html), and [so much more](https://github.com/patricksimpson/dotfiles/tree/master/emacs#emacs-packages---melpa). 
 
 If you are looking for something lighter weight, quick edits... remote in, open Vim. Edit. Save. Done. 
-Vim is there (virtuall on every unix system). It works. It's great.
+Vim is there (virtually on every Unix system). It works. It's great.
 
-I use Emacs because it can do anything. It can be anything. It can run Vim, keep notes, maniuplate the filesystem, and so much more...
+I use Emacs because it can do anything. It can be anything. It can run Vim, keep notes, manipulate the file system, and so much more...
 
-But, Emacs isn’t for everyone, and Vim isnt either. 
+But, Emacs isn’t for everyone, and Vim isn't either. 
 
 Know your tools. If you are happy with your editor and are a little curious, carry on.
 
@@ -26,7 +26,7 @@ Know your tools. If you are happy with your editor and are a little curious, car
 
 At its core is an interpreter for Emacs Lisp, a dialect of the Lisp programming language with extensions to support text editing.
 
-In 1976, [Stallman](https://www.emacswiki.org/emacs/RichardStallman) wrote the first Emacs (“Editor MACroS”), which organized these macros into a single command set and added facilities for [SelfDocumentation](https://www.emacswiki.org/emacs/SelfDocumentation) and to be extensible. [TecoEmacs](https://www.emacswiki.org/emacs/TecoEmacs) soon became the standard editor...[read more on wikipedia](https://en.wikipedia.org/wiki/Emacs).
+In 1976, [Stallman](https://www.emacswiki.org/emacs/RichardStallman) wrote the first Emacs (“Editor MACroS”), which organized these macros into a single command set and added facilities for [Self Documentation](https://www.emacswiki.org/emacs/SelfDocumentation) and to be extensible. [TecoEmacs](https://www.emacswiki.org/emacs/TecoEmacs) soon became the standard editor...[read more on Wikipedia](https://en.wikipedia.org/wiki/Emacs).
 
 In 1984, Stallman began writing another Emacs implementation based on the former co-planning with Gosling, naming it GnuEmacs, which became the first program in the GNU project.
 
@@ -108,10 +108,14 @@ Magit, [makes git fast and easy](http://emacsrocks.com/e17.html).
 
 ## Customize
 
-What all these years of Vim has thaught me, learn to customize and never stop customizing. 
+What all these years of Vim has taught me, learn to customize and never stop customizing. 
 
 This year, I completely gutted my Emacs configuration and replaced it, line by line, plugin by plugin. It's fast, lightweight, and looks great.
 
-[Check it out here](https://github.com/patricksimpson/dotfiles/tree/master/emacs)
+[Check it out here](https://github.com/patricksimpson/dotfiles/tree/master/emacs).
 
-Give it a shot. If you need help, reach out!
+## Resources
+
+A post containing a bunch of helpful Emacs resources!
+
+- [Emacs Resources](/posts/emacs-resources).

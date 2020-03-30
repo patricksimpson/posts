@@ -19,7 +19,7 @@ The idea is that you’d use this in addition with other synchronous communicati
 
 ### Open Source
 
-It's open source on github, check it out:
+It's open source on GitHub, check it out:
 
 https://github.com/patricksimpson/pointer
 
@@ -27,5 +27,6 @@ You can fork/copy setup your own server!
 
 ## Tech
 
-Using [Socket.io]: https://socket.io/ and [React]: https://reactjs.org/
+- [Socket.io](https://socket.io/)
+- [React](https://reactjs.org/).
 
