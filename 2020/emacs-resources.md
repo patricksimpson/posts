@@ -1,11 +1,11 @@
 ---
-title("Emacs Resources"
-date("2020-03-29 11:04 PM"
-summary("A bunch of Emacs resources links and tutorials."
-tags(["blog", "emacs", "programming"]
+title: "Emacs Resources"
+date: "2020-03-29 11:04 PM"
+summary: "A bunch of Emacs resources links and tutorials."
+tags: ["blog", "emacs", "programming"]
 ---
 
-I just posted [Why Emacs?](https://patricksimpson.me/posts/why-emacs/), and here's a a list of links to Emacs resrouces.
+I just posted [Why Emacs?](https://patricksimpson.me/posts/why-emacs/), but I wanted a post that had a list of all the resources pulled out.
 
 - [Download Emacs](https://www.gnu.org/software/emacs/download.html)
 - [The Manual](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
@@ -21,7 +21,7 @@ I just posted [Why Emacs?](https://patricksimpson.me/posts/why-emacs/), and here
 
 ## Configurations
 
-- [Spacemacs]:https://www.spacemacs.org/)
+- [Spacemacs](https://www.spacemacs.org/)
 - [Doom Emacs](https://github.com/hlissner/doom-emacs)
 - [Centuar Emacs](https://seagle0128.github.io/.emacs.d/)
 - [Emacs Lite](https://github.com/asimpson/dotfiles/blob/master/emacs/emacs-lite.org)
