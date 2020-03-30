@@ -1,6 +1,6 @@
 ---
 title: "Pointer"
-date: "2020-03-30 11:20 PM"
+date: "2020-03-30 12:00 AM"
 summary: "A simple agile pointing tool."
 tags: ["blog", "tools", "programming", "software"]
 ---
