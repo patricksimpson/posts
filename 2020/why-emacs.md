@@ -7,25 +7,20 @@ tags: ["blog", "emacs", "programming"]
 
 ## I Love Vim
 
-Much like [Aaron Bieber](https://blog.aaronbieber.com/2015/06/03/evil-mode.html), I started out coding using Vim. (Check out all his great write ups, [like this one](https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html)).
+I've [decided to make this section it's own post](/posts/i-love-vim). I appreciate good editors, like Vim.
 
-And, I do love Vim. It is still one of the greatest editors of all time, and being an EVIL mode user, I love the default keybindings Vim has to offer.
-
-Vim is, highly configurable with many packages/plugins available. There's a steep learning curve, but worth the productivity increase overtime, it's worth the investment. 
-
-One of the the biggest advantage to Vim Bindings  (aside from all the plugins and keyboard shortcuts you can add to your workflow), with the default keybindings, you never have to take your hands off the keyboard or far from the "home row."
-
-Vim was designed to be used on systems without Graphical User Interfaces, with limited mouse support. This is a huge advantage on servers, but another advantage is performance.
-
-[Learn vim](https://www.vimfromscratch.com/articles/why-learn-vim-in-2019/).
-
-## Why Emacs?
+## Emacs!
 
 Emacs has so much to offer, from a [healthy package system](https://melpa.org/#), complete [Vim emulation](https://www.emacswiki.org/emacs/Evil), [Magit](https://magit.vc/), [Org mode](https://orgmode.org/), [Dired](https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html), and [so much more](https://github.com/patricksimpson/dotfiles/tree/master/emacs#emacs-packages---melpa). 
 
-If you are looking for something lighter weight, quick edits, remote in to open vim. Edit. Save. Done. Vim is there. Emacs isn’t for everyone. Vim isnt either. 
+If you are looking for something lighter weight, quick edits... remote in, open Vim. Edit. Save. Done. 
+Vim is there (virtuall on every unix system). It works. It's great.
 
-I use Emacs because it can do everything I want and more... 
+I use Emacs because it can do anything. It can be anything. It can run Vim, keep notes, maniuplate the filesystem, and so much more...
+
+But, Emacs isn’t for everyone, and Vim isnt either. 
+
+Know your tools. If you are happy with your editor and are a little curious, carry on.
 
 ### What is Emacs?
 
@@ -43,35 +38,25 @@ Emacs has over 10,000 built-in commands and its user interface allows the user t
 
 Some of the key binds (keyboard shortcuts) might look strange, here's what they mean:
 
-Meta `M-` Command or your "super" key. 
+Meta: `M-` Command or your "super" key. 
 
-Control `C-`  
+Control: `C-`  
 
-So that `C-x` would be Control + x together. 
+So that `C-x` would be Control key, plus `x` pressed together.
 
-**Exiting Emacs**:
-
-`C-x C-c` Kill Emacs, `save-buffers-kill-terminal`.
-
-**Other basic commands**:
-
-`C-x C-e` Evaluate the current expression. This is cool, as you can do this on any elisp in your buffer.
-
-For example: `(+ 2 2)` placeing your cursor on `)` and pressing `C-x C-e` will evalulate the elisp.
-
-`C-x C-f` read a file into Emacs (or create one).
-
-`C-x C-s` save a file back to disk.
+- `C-x C-c` Kill Emacs, `save-buffers-kill-terminal`.
+- `C-x C-e` Evaluate the current expression. This is cool, as you can do this on any elisp in your buffer.
+- `C-x C-f` read a file into Emacs (or create one).
+- `C-x C-s` save a file back to disk.
 
 ### Describe
 
 `describe` is a powerful feature in Emacs that will tell you all the information you need about particulars.
 
-`M-x`: +
-`describe-function`
-`describe-variable`
-`describe-mode`
-`describe-key`
+- `describe-function`
+- `describe-variable`
+- `describe-mode`
+- `describe-key`
 
 ### Melpa
 
