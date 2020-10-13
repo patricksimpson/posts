@@ -18,12 +18,12 @@ Why CSS in JS?
 Why all these depedendies... do you really _need_ all this stuff? 
 
 Or can you just get by with some vanallina HTML/CSS/JS? 
-[Just remember that entropy is real, and this post sums that up pretty nicely](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech)
+[Just remember that entropy is real, and this post sums that up pretty nicely.](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech)
 
 I am sure you'll be able to create something. Or is it that we've invented our selves something some complex, so crazily time consuming, you'll
 need to read a few books or some good tutorials on first. What's up with that anyway?
 
 But, we're all humans and we'll solve more problems with more problems. Of course that is, until the next shiny thing comes out.
-Then we'll have to keep solving problems with more different problems. 
-By the way, make sure you upgrade to the latest OS/Macbrick pro 2021 version for 32 gigs of ram, 
-you're going to need it if you want to solve problems. 
+Then we'll have to solve the same problems, in a new different way. Solving problems with those more different problems. 
+By the way, make sure you upgrade to the latest OS/Macbrick pro 2021 version for 32 gigs of ram... 
+You're going to need it if you want to solve problems. 
