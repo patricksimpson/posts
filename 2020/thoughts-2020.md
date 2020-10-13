@@ -1,8 +1,8 @@
-OK this is a RANT. You've been warned...
+This is a *RANT*. You've been warned. 
 
 ## JavaScript, I love you, but...
 
-JavaScript is getting crazy... It's the world wide trash heap where anything goes. Nothing is right, nothing is wrong. 
+JavaScript, it is getting crazy... It's the world wide trash heap where anything goes. Nothing is right, nothing is wrong. 
 I mean, I love JavaScript. It's easy, to write, easy to understand. 
 
 It least it could be.  Now, we've created tools like "TypeScript", Babel, Webpack, and React, of course, to make it better (more good?)...
@@ -19,7 +19,8 @@ So before you start your next project, ask yourself....
 Why React?
 Why Gatsby? 
 Why CSS in JS?
-Why all these depedendies did we need all this stuff? Or can you just get by with some native HTML/CSS/JS? 
+Why all these depedendies did we need all this stuff? 
+Or can you just get by with some native HTML/CSS/JS? 
 
 I am sure you'll be able to create something. Or is it that we've invented our selves something some complex, so crazily time consuming, you'll
 need to read a few books or some good tutorials on first. What's up with that anyway?
