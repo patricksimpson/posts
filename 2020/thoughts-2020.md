@@ -2,10 +2,8 @@ This is a *RANT*. You've been warned.
 
 ## JavaScript, I love you, but...
 
-JavaScript, it is getting crazy... It's the world wide trash heap where anything goes. Nothing is right, nothing is wrong. 
-I mean, I love JavaScript. It's easy, to write, easy to understand. 
-
-It least it could be.  Now, we've created tools like "TypeScript", Babel, Webpack, and React, of course, to make it better (more good?)...
+JavaScript is getting crazy... It's feels like a world wide trash heap where anything goes, nothing is right, nothing is wrong. Right? No? 
+I mean, I love JavaScript. It's easy, to write, easy to understand. It least it was.  Now, we've created tools like "TypeScript", Babel, Webpack, and React, of course, to make it better (more good?)...
 but JavaScript code is still only as good as it's written and maintained of course. The useage of the aforemenetioned tools doesn't make it _good_ believe me. 
 
 ## Quality?
