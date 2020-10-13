@@ -7,9 +7,9 @@ but JavaScript code is still only as good as it's written and maintained of cour
 
 What is good? It's not easy to define that. Like Phaedrus in [Zen and the Art of Motocycle Maintaince](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)... "quality". 
 Go ahead, try to define "quality." I can tell you that it's infinatly granular. And yet everyone has a different opinion on what
-"good code" is. But, you'll know it when you see it. Right? And that is enough metaphysics for one day. 
+"good code" is. But, you'll know it when you see it. 
 
-All I ask is before you start your next project, ask yourself....
+Before you start your next project, ask yourself....
 
 Why React?
 Why Gatsby? 
