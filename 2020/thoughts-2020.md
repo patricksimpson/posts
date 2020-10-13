@@ -1,12 +1,10 @@
 This is a *RANT*. You've been warned. 
 
-## JavaScript, I love you, but...
-
 JavaScript is getting crazy... It's feels like a world wide trash heap where anything goes, nothing is right, nothing is wrong. Right? No? 
 I mean, I love JavaScript. It's easy, to write, easy to understand. It least it was.  Now, we've created tools like "TypeScript", Babel, Webpack, and React, of course, to make it better (more good?)...
 but JavaScript code is still only as good as it's written and maintained of course. The useage of the aforemenetioned tools doesn't make it _good_ believe me. 
 
-## Quality?
+### Quality?
 
 Good code, is good code. It's not easy to define that. Like Phaedrus in [Zen and the Art of Motocycle Maintaince](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)... "quality". 
 Go ahead, try to define "quality." I can tell you that it's infinatly granular. And yet everyone has a different opinion on what
