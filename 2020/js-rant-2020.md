@@ -1,7 +1,7 @@
 ---
 title: "JavaScript Rant, 2020"
 date: "2020-10-12 10:00 PM"
-summary: "A simple agile pointing tool."
+summary: "A random rant about the current state of JavaScript."
 tags: ["blog", "javascript", "programming", "software"]
 ---
 
