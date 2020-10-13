@@ -6,17 +6,18 @@ but JavaScript code is still only as good as it's written and maintained of cour
 
 ### Quality?
 
-Good code, is good code. It's not easy to define that. Like Phaedrus in [Zen and the Art of Motocycle Maintaince](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)... "quality". 
+What is good? It's not easy to define that. Like Phaedrus in [Zen and the Art of Motocycle Maintaince](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)... "quality". 
 Go ahead, try to define "quality." I can tell you that it's infinatly granular. And yet everyone has a different opinion on what
-"good code" is. But, you'll know it when you see it. Right? ;) (That's enough metaphysics for one post).
+"good code" is. But, you'll know it when you see it. Right? And that is enough metaphysics for one day. 
 
-So before you start your next project, ask yourself....
+All I ask is before you start your next project, ask yourself....
 
 Why React?
 Why Gatsby? 
 Why CSS in JS?
-Why all these depedendies did we need all this stuff? 
-Or can you just get by with some vanallina HTML/CSS/JS? T
+Why all these depedendies... do you really _need_ all this stuff? 
+
+Or can you just get by with some vanallina HTML/CSS/JS? 
 [Just remember that entropy is real, and this post sums that up pretty nicely.](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech/
 
 I am sure you'll be able to create something. Or is it that we've invented our selves something some complex, so crazily time consuming, you'll
