@@ -23,7 +23,8 @@ Or can you just get by with some vanallina HTML/CSS/JS?
 I am sure you'll be able to create something. Or is it that we've invented our selves something some complex, so crazily time consuming, you'll
 need to read a few books or some good tutorials on first. What's up with that anyway?
 
-But, we're all humans and we'll solve more problems with more problems. Of course that is, until the next shiny thing comes out.
-Then we'll have to solve the same problems, in a new different way. Solving problems with those more different problems. 
+But, we're all humans and we'll solve more problems with new problems. Of course that is, until the next shiny thing comes out.
+Then we'll have to solve the same problems, in a new different way though. Solving those problems with more new problems. 
+
 By the way, make sure you upgrade to the latest OS/Macbrick pro 2021 version for 32 gigs of ram... 
 You're going to need it if you want to solve problems. 
