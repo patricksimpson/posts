@@ -30,7 +30,7 @@ I am sure you'll be able to create something. Or is it that we've invented ourse
 need to read a few books or some good tutorials on first. Did we invent the thing to solve the problem to write the book about how it can solve your problems?
 
 But, we're all humans and we'll solve more problems with new problems. That is of course, until the next new _dingus_ comes out.
-Then we'll have to solve the same problems, in a new different way. Solving those problems with more new problems. 
+Then we'll have to solve the same problems, in a new different ways. More exicting different new problems, we can solve those problems with more new problems. 
 
 By the way, make sure you upgrade to the latest OS/Macbrick Pro 2021 version for 32 gigs of ram... 
 You're going to need it if you want to solve problems. 
