@@ -1,6 +1,6 @@
 This is a *RANT*. You've been warned. 
 
-JavaScript is getting crazy... It's starting to [feel like a world wide trash heap.](https://npm.anvaka.com/#/view/2d/gatsby) I mean, I love JavaScript. It's easy, to write, easy to understand. It least it was.  Now, we've created tools like "TypeScript", Babel, Webpack, and React, of course, to make it better (more good?)...
+JavaScript is getting crazy... It's starting to [feel like a world wide trash heap.](https://npm.anvaka.com/#/view/2d/gatsby) I mean, I love JavaScript. It's easy, to write, easy to understand. It least I think it is, or was, perhaps, could be? Now, we've created tools like "TypeScript", Babel, Webpack, and React, of course, to make it better (more good?)...
 but JavaScript code is still only as good as it's written and maintained of course. The useage of the aforemenetioned tools doesn't make it _good_ believe me. 
 
 ### Quality?
