@@ -13,16 +13,14 @@ I love JavaScript. It's easy, to write, easy to understand. We've created tools 
 Go ahead, try to define "quality." I can tell you that it's infinatly granular. And yet everyone has a different opinion on what
 "good code" is. But, you'll know it when you see it. 
 
-
-#### Hooks
-
-I can't write it much better than this. I agree with these opinions. 
-
 Before you start your next project, ask yourself....
 
-[Why React?](https://css-tricks.com/project-need-react/)
-[Why Hooks?](https://medium.com/swlh/the-ugly-side-of-hooks-584f0f8136b6)
-[Why Gatsby?](https://cra.mr/an-honest-review-of-gatsby/)
-[Why CSS in JS?](https://cra.mr/an-honest-review-of-gatsby/)
+#### [Why React?](https://css-tricks.com/project-need-react/)
+ 
+#### [Why Hooks?](https://medium.com/swlh/the-ugly-side-of-hooks-584f0f8136b6) 
+
+#### [Why Gatsby?](https://cra.mr/an-honest-review-of-gatsby/)
+
+#### [Why CSS in JS?](https://gomakethings.com/whats-wrong-with-css-in-js/)
 
 Can you get by with some vanallina HTML/CSS/JS?  [Just remember that entropy is real, and this post sums that up pretty nicely.](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech)
