@@ -6,7 +6,7 @@ tags: ["blog", "javascript", "programming", "software"]
 ---
 
 I love JavaScript. It's easy, to write, easy to understand. What I've noticed lately, is [unhealthy](https://npm.anvaka.com/#/view/2d/gatsby). 
-It's tough to describe this problem, other than a simple "feeling" of increasing bloat, and decreasing understanding of the fundamentals (Check out Kyle Simpson's [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS). This is how I define quality (or the lack therof)). 
+It's tough to describe this problem, other than a simple "feeling" of increasing bloat, and decreasing understanding of the fundamentals. Check out Kyle Simpson's [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS). This is how I define quality (or the lack therof).
 
 #### [Why React?](https://css-tricks.com/project-need-react/)
 
