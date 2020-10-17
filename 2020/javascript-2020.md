@@ -1,6 +1,6 @@
 ---
 title: "JavaScript, 2020"
-date: "2020-10-12 10:00 PM"
+date: "2020-10-16 9:32 PM"
 summary: "A random rant about the current state of JavaScript."
 tags: ["blog", "javascript", "programming", "software"]
 ---
