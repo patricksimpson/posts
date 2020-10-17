@@ -13,7 +13,7 @@ Know when to reach for it. You don't need it for every project.
  
 #### [Why Hooks?](https://medium.com/swlh/the-ugly-side-of-hooks-584f0f8136b6) 
 
-I know why we created hooks. But it's answering the wrong question. React is still bad at state management. It's something EmberJS got better.
+It's answering the wrong questions. React is still bad at state management. It's something [EmberJS](https://guides.emberjs.com/release/models/) got right.
 
 #### [Why Gatsby?](https://cra.mr/an-honest-review-of-gatsby/)
 
