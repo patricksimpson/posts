@@ -23,4 +23,4 @@ Before you start your next project, ask yourself....
 
 #### [Why CSS in JS?](https://gomakethings.com/whats-wrong-with-css-in-js/)
 
-Can you get by with some vanallina HTML/CSS/JS?  [Just remember that entropy is real, and this post sums that up pretty nicely.](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech)
+Can you get by with some vanallina HTML/CSS/JS?  Just remember that [entropy is real](https://blog.jim-nielsen.com/2020/cheating-entropy-with-native-web-tech).
