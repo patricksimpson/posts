@@ -5,7 +5,7 @@ summary: "Software is about humans, whether it’s just you or millions of peopl
 tags: ["blog", "software", "random"]
 ---
 
-![](software-is-about-humans.png)
+![](software-is-about-humans_picture.png)
 
 I've been running this blog on this [custom built JavaScript engine](https://github.com/patricksimpson/blog) for over 2 years. I've looked into other engines like Jekyll. The lift to Jekyll wasn't worth the time to me. I actually built almost everything Jekyll does without realizing it anyway... unless I was completely redesigning, it makes no sense to switch. 
 
