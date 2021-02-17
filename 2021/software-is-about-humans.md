@@ -11,9 +11,11 @@ I've been running this blog on this [custom built JavaScript engine](https://git
 
 It just works, it's static and my posts could be ported over if I really wanted to. Was this project a waste of time? 
 
-Even if I am the only user, I don't believe it to be a waste. Some apps I've written for myself I still use.  
+Even if I am the only user, I don't believe it to be a waste. Some apps I've written for myself I still use.
 
-For example, I still use this codepen application: [https://codepen.io/patricksimpson/full/dMLbgj](https://codepen.io/patricksimpson/full/dMLbgj). I use this when I lift weights. It works. It's not complicated, it's not pretty, but I still use it. If someone else uses it, that's great, if not, I am happy to continue.
+For example, I still use this codepen application: [https://codepen.io/patricksimpson/full/dMLbgj](https://codepen.io/patricksimpson/full/dMLbgj). 
+
+I use this simple app when I lift weights (and too lazy to do math). It works. It's not complicated, it's not pretty, but I still use it. If someone else uses it, that's great, if not, I am happy to continue.
 
 If I am no longer using it, there is something to be said about the experience of building something, right? It's still not a complete waste.
 
