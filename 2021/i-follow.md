@@ -1,3 +1,9 @@
+## Rules
+
+I try not to list people that don't have their own websites (RSS), espeically Medium blogs. 
+
+While I understand why there are some very smart and well educated people I admire on those websites, I make an attempt at endorsing people that have taken the extra step of creating their "own" space on the internet. 
+
 ## People
 
 - https://paulosman.me/
@@ -17,11 +23,11 @@
 - https://addyosmani.com/blog/
 - http://tenderlovemaking.com/
 - https://matt-rickard.com/
+- https://www.bryanbraun.com/
 
 ## Groups
 
 - https://thedailywtf.com/
-
 
 ## Resources
 
