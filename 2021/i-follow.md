@@ -1,8 +1,8 @@
 ## Rules
 
-I try not to list people that don't have their own websites (RSS), espeically Medium blogs. 
+I try not to list people that don't have their own websites (RSS).
 
-While I understand why there are some very smart and well educated people I admire on those websites, I make an attempt at endorsing people that have taken the extra step of creating their "own" space on the internet. 
+While I understand why there are some very smart and well educated people I admire on those websites (like Medium), I make an attempt at endorsing people that have taken the extra step of creating their "own" space on the internet. 
 
 ## People
 
