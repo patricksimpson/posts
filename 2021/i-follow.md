@@ -40,3 +40,4 @@ While I understand why there are some very smart and well educated people I admi
 - https://rubystyle.guide/
 - https://crontab.guru/
 - https://free-for.dev/#/
+- https://mcfunley.com/choose-boring-technology
