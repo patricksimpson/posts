@@ -1,6 +1,6 @@
 ---
 title: "Redirector"
-date: "2021-04-11 12:48 PM"
+date: "2021-10-16 9:01 AM"
 summary: "Using redirector to avoid certain undesirable web"
 tags: ["blog", "software", "random"]
 ---
